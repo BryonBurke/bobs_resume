@@ -1,0 +1,20 @@
+.Education {
+  font-family: cursive;
+  color: gray;
+}
+
+.WorkExperience {
+  font-family: fantasy;
+  color: purple;
+}
+
+.skills {
+  font-style: italic;
+  color: brown;
+}
+
+.bold {
+  font-weight: bold;
+  color: cyan;
+
+}
